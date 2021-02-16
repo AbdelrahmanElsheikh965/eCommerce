@@ -4,12 +4,12 @@ have fun ;)
 
 
 ## Updates Includes ://
-    ** Ability to add products to the cart.
-    ** user can open the cart page to see products.
+    * Ability to add products to the cart.
+    * user can open the cart page to see products.
 ## Tasks Not yet Done!
-    1-click on the category link in the homepage to show according products.
-    2-ability to remove the product from the cart.
-    3-calculate the item price regarding the number of duplicates.
-    4-ability to use - + to descrease/increase no.products in the cart page.
-    5-when logout redirect to the login page.
-    6-real payment method inclusion.
+    1- Click on the category link in the homepage to show according products.
+    2- Ability to remove the product from the cart.
+    3- Calculate the item price regarding the number of duplicates.
+    4- Ability to use - + to descrease/increase no.products in the cart page.
+    5- When logout redirect to the login page.
+    6- Real payment method inclusion.
