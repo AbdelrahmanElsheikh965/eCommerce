@@ -4,8 +4,8 @@ have fun ;)
 
 
 ## Updates Includes ://
-    * Ability to add products to the cart.
-    * user can open the cart page to see products.
+    ** Ability to add products to the cart.
+    ** user can open the cart page to see products.
 ## Tasks Not yet Done!
     1-click on the category link in the homepage to show according products.
     2-ability to remove the product from the cart.
