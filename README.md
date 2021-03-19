@@ -1,6 +1,8 @@
 ## Abstract
 this is [ Part 2] update of an E-commerce website with an admin panel (Dashboard) with CRUD (Create, Read, Update, Delete )operations on categories, products, and listing users of the website in addition to the user interface for the customers listing categories having the ability to add products to the cart or remove them and lastly they can perform the buying process with a payment method.
 have fun ;)
+Part 1 : https://youtu.be/1GUuSQsk8Ew
+Part 2 : https://youtu.be/ZPHR3wICT1o
 
 
 ## Updates Includes ://
